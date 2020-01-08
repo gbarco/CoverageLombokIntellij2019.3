@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/fragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/lombok.config">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/lombok.config">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/Test/Adapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/Test/SimpleClass.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/Test/a.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/TestCoverage/SimpleClass.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/a.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/Test/AdapterTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/Test/SimpleClassTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/TestCoverage/SimpleClassTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../XP/ACL/xp-acl-ix-queue-consumer/src/main/java/com/latam/xp/acl/ixqueueconsumer/PubSubApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../XP/ACL/xp-acl-ix-queue-consumer/src/main/java/com/latam/xp/domain/eventhub/ExecutionAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../XP/ACL/xp-acl-ix-queue-consumer/src/main/java/com/latam/xp/domain/eventhub/ProcessInstanceAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../XP/ACL/xp-acl-ix-queue-consumer/src/main/java/com/latam/xp/domain/eventhub/RemoteRuntimeService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../XP/ACL/xp-acl-ix-queue-consumer/src/main/java/com/latam/xp/domain/eventhub/RuntimeServiceClient.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../XP/ACL/xp-acl-ix-queue-consumer/src/main/java/com/latam/xp/domain/eventhub/ValueMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../XP/ACL/xp-acl-ix-queue-consumer/src/test/java/com/latam/xp/domain/eventhub/ExecutionAdapterTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../XP/ACL/xp-acl-ix-queue-consumer/src/test/java/com/latam/xp/domain/eventhub/ValueMapperTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../XP/LIB/camunda-rest-client-spring-boot/extension/src/main/kotlin/variables/ValueMapper.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
